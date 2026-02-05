@@ -6,7 +6,7 @@ The work is carried out as a **B.Tech Mechanical Engineering final year project*
 
 ---
 
-## 📌 Problem Overview
+## Problem Overview
 
 Cylindrical shell structures are widely used in aerospace, nuclear, marine, and high-temperature engineering applications. When subjected to **thermal gradients and magnetic fields**, their dynamic behavior becomes strongly nonlinear.
 
@@ -17,7 +17,7 @@ This project investigates:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Study **nonlinear free vibration** of cylindrical shells
 - Incorporate **magnetic (Lorentz) forces** and **thermal stresses**
@@ -30,7 +30,7 @@ This project investigates:
 
 ---
 
-## 🧠 Theory & Methodology
+## Theory & Methodology
 
 ### ✔ Shell Theory
 - Classical Shell Theory (Kirchhoff–Love assumptions)
@@ -48,7 +48,7 @@ This project investigates:
 
 ---
 
-## 🧪 Material Modeling
+##  Material Modeling
 
 ### Functionally Graded Materials (FGM)
 Material properties vary continuously through thickness using:
@@ -70,7 +70,7 @@ Properties considered:
 
 ---
 
-## 🧩 MATLAB Code Structure
+##  MATLAB Code Structure
 
 | File | Description |
 |-----|------------|
@@ -85,7 +85,7 @@ Properties considered:
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 - **Natural frequency decreases** with:
   - Increasing temperature
@@ -99,7 +99,7 @@ Properties considered:
 
 ---
 
-## ✅ Model Validation
+## Model Validation
 
 The formulation is validated by:
 - Reducing FGM to isotropic case
@@ -111,7 +111,7 @@ Deviation observed: **< 5%**
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `matlab_code/` – Complete simulation codes
 - `results/` – Parametric study plots
@@ -121,14 +121,14 @@ Deviation observed: **< 5%**
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - MATLAB R2021a or later
 - Symbolic Math Toolbox (optional)
 
 ---
 
-## 👨‍🎓 Authors
+##  Authors
 
 - **Atul Kumar Vishwakarma**  
  
@@ -138,13 +138,13 @@ National Institute of Technology Raipur
 
 ---
 
-## 👨‍🏫 Supervisor
+## Supervisor
 
 **Dr. Ankur Gupta**  
 Assistant Professor, NIT Raipur
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed for **academic and research use only**.
